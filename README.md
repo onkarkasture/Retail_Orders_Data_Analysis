@@ -7,8 +7,7 @@ This repository contains code and insights for extracting, transforming, and loa
 - [ETL Process](#etl-process)
 - [Data Analysis](#data-analysis)
 - [Queries](#queries)
-- [Contributing](#contributing)
-- [License](#license)
+- [Conclusion](#conclusion)
 
 ## Getting Started
 
