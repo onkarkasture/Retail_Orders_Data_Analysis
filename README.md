@@ -205,4 +205,4 @@ The following SQL queries are used for data analysis, mainly to answer a few pri
         ```
 
 ## Conclusion
-This project was a self-learning endeavor aimed at enhancing my understanding of Python and SQL. Through the completion of this project, I have gained significant insights into data analysis, encompassing everything from the fundamental steps of ETL to crafting complex nested queries in SQL. I am now more confident in my ability to handle data analysis tasks using these tools.
+This project was a self-learning endeavour aimed at enhancing my understanding of Python and SQL. Through the completion of this project, I have gained significant insights into data analysis, encompassing everything from the fundamental steps of ETL to crafting complex nested queries in SQL. I am now more confident in my ability to handle data analysis tasks using these tools.
